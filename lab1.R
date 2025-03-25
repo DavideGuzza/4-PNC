@@ -1,5 +1,3 @@
-top_dir <- ("C:/Users/david/Downloads/ERPDataforstudents")
-setwd("C:/Users/david/Downloads/ERPDataforstudents")
 library(tidyverse)
 
 erp_load <- function(path) {
